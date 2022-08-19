@@ -5,4 +5,8 @@ Links to access the Dashboard:
 
 Sales-Insights:
 
-https://public.tableau.com/app/profile/subrata.nayak/viz/Sales-Insights/SalesInsighsDashboard?publish=yes
+https://public.tableau.com/app/profile/subrata.nayak/viz/Sales-Insights/SalesInsighsDashboard
+
+Supermarket-Sales-Analysis:
+
+https://public.tableau.com/app/profile/subrata.nayak/viz/Market-Sales-Analysis/MarketSalesAnalysis
